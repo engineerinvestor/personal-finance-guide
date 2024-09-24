@@ -1,6 +1,6 @@
 # Personal Finance Guide
 
-Welcome to the **Engineer Investor Personal Finance Guide** repository, containing the Jupyter notebook "A Friendly Guide to Personal Finance and Investing for Everyone." This notebook is designed to introduce essential concepts in personal finance and investing, offering accessible advice for individuals at any stage of their financial journey. Whether you're starting your career or planning for retirement, this guide is intended to help you build a strong financial foundation and move toward financial independence.
+Welcome to the **Engineer Investor Personal Finance Guide** repository, containing the Jupyter notebook "[A Friendly Guide to Personal Finance and Investing for Everyone](https://github.com/engineerinvestor/personal-finance-guide/blob/main/A_Friendly_Guide_to_Personal_Finance_and_Investing_for_Everyone.ipynb)." This notebook is designed to introduce essential concepts in personal finance and investing, offering accessible advice for individuals at any stage of their financial journey. Whether you're starting your career or planning for retirement, this guide is intended to help you build a strong financial foundation and move toward financial independence.
 
 ## Notebook Overview
 
